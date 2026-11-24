@@ -9,7 +9,7 @@ const posts = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     subtitle: z.string().optional(),
-    author: z.string().default('Brandon Pahla'),
+    author: z.string().default('Brandon Gray'),
   }),
 });
 

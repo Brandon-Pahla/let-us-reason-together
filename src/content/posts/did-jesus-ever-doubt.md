@@ -2,7 +2,7 @@
 title: "Did Jesus Ever Doubt? The Cry from the Cross"
 subtitle: "He asked why. He never let go."
 pubDate: 2026-11-24
-author: Brandon Pahla
+author: Brandon Gray
 description: "Did Jesus doubt on the cross? A study of the cry 'My God, My God, why have You forsaken Me?', Psalm 22 and Gethsemane."
 ---
 
