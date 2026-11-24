@@ -9,6 +9,7 @@ const posts = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     subtitle: z.string().optional(),
+    author: z.string().default('Brandon Pahla'),
   }),
 });
 

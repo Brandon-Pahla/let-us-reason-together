@@ -6,18 +6,19 @@ interface Props {
   description: string;
   subtitle?: string;
   pubDate: Date;
+  author: string;
 }
 
-const { title, description, subtitle, pubDate } = Astro.props;
+const { title, description, subtitle, pubDate, author } = Astro.props;
 const month = pubDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
 ---
 
-<Base title={title} description={description}>
+<Base title={title} description={description} author={author}>
   <article>
     <header>
       <h1>{title}</h1>
       {subtitle && <p class="subtitle">{subtitle}</p>}
-      <p class="meta">Bible study notes · <time datetime={pubDate.toISOString().slice(0, 10)}>{month}</time></p>
+      <p class="meta">By <span class="author">{author}</span> · Bible study notes · <time datetime={pubDate.toISOString().slice(0, 10)}>{month}</time></p>
     </header>
     <slot />
   </article>
