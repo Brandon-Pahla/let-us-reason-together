@@ -30,7 +30,7 @@
   }
 }
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: 4.5rem; }
 body {
   margin: 0;
   background: var(--bg);
@@ -47,7 +47,13 @@ body {
   overflow-wrap: break-word;
 }
 main.wrap { padding-top: 2rem; padding-bottom: 4rem; }
-.site-header { border-bottom: 1px solid var(--rule); }
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  border-bottom: 1px solid var(--rule);
+}
 .site-header .wrap { padding-top: .25rem; padding-bottom: .25rem; }
 .site-logo {
   font-family: Lora, Georgia, "Times New Roman", serif;
