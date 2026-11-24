@@ -49,14 +49,19 @@ body {
 main.wrap { padding-top: 2rem; padding-bottom: 4rem; }
 .site-header { border-bottom: 1px solid var(--rule); }
 .site-header .wrap { padding-top: .25rem; padding-bottom: .25rem; }
-.site-name {
+.site-logo {
+  font-family: Lora, Georgia, "Times New Roman", serif;
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: clamp(.9rem, 4.7vw, 1.2rem);
+  letter-spacing: -.012em;
+  line-height: 1.3;
+  white-space: nowrap;
   color: var(--text);
   text-decoration: none;
+  min-width: 0;
 }
+.logo-red { color: var(--wj); }
 .site-header .header-row { display: flex; align-items: center; justify-content: space-between; gap: .75rem; }
-.site-name { line-height: 1.3; }
 .site-nav a {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-size: .9rem;
@@ -82,7 +87,8 @@ main.wrap { padding-top: 2rem; padding-bottom: 4rem; }
   text-decoration: none;
 }
 .back-link:hover { text-decoration: underline; }
-.site-name:hover { text-decoration: underline; }
+.site-logo:hover { opacity: .8; }
+.site-logo:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; border-radius: 2px; }
 .site-footer { border-top: 1px solid var(--rule); color: var(--muted); }
 .site-footer .wrap { padding-top: 1.2rem; padding-bottom: 2rem; }
 .site-footer p + p { margin-top: .5rem; }
