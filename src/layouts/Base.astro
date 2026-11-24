@@ -12,6 +12,7 @@ interface Props {
 }
 
 const { title, description, author } = Astro.props;
+const isHome = Astro.url.pathname === '/';
 const fullTitle = title ? `${title} · Let Us Reason Together` : 'Let Us Reason Together';
 ---
 
@@ -27,7 +28,10 @@ const fullTitle = title ? `${title} · Let Us Reason Together` : 'Let Us Reason 
   </head>
   <body>
     <header class="site-header">
-      <div class="wrap"><a class="site-name" href="/">Let Us Reason Together</a></div>
+      <div class="wrap header-row">
+        <a class="site-name" href="/">Let Us Reason Together</a>
+        <nav aria-label="Main" class="site-nav"><a href="/" aria-current={isHome ? 'page' : undefined}>Studies</a></nav>
+      </div>
     </header>
     <main class="wrap">
       <slot />
