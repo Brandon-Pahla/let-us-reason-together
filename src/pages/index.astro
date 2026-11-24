@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+---
+
+<Base description="Bible studies that have to stand on scripture, and follow logically.">
+  <section class="intro">
+    <h1>Let Us Reason Together</h1>
+    <blockquote class="scripture">
+      <p>“Come now, and let us reason together,” Says the Lord</p>
+      <footer>
+        <cite><a href="https://www.biblegateway.com/passage/?search=Isaiah%201%3A18&amp;version=NKJV">Isaiah 1:18 (NKJV)</a></cite>
+      </footer>
+    </blockquote>
+    <p>Bible studies that have to stand on scripture, and follow logically.</p>
+  </section>
+  <section class="posts">
+    <h2>Posts</h2>
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li class="post-card">
+          <p class="card-date"><time datetime={post.data.pubDate.toISOString().slice(0, 10)}>{fmt(post.data.pubDate)}</time></p>
+          <h3 class="card-title"><a href={`/posts/${post.id}/`}>{post.data.title}</a></h3>
+          <p class="card-desc">{post.data.description}</p>
+          <p class="card-cta" aria-hidden="true">Read the study →</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Base>
