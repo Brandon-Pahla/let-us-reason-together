@@ -270,6 +270,23 @@ description: "Does Ecclesiastes 7:16 warn against giving everything to God? A st
 <p>That, I think, is the real face of "overly righteous." It looks like the Pharisee in the parable who "<span class="sq">stood and prayed thus with himself</span>" (<a href="https://www.biblegateway.com/passage/?search=Luke%2018%3A11&amp;version=NKJV">Luke 18:11</a>). It doesn't look like a widow quietly giving everything she had.</p>
 </section>
 
+<section id="conditions">
+<h2>So when is giving everything right?</h2>
+<p>Some conditions run through everything above, so here they are in one place. Giving everything to God is right when it is:</p>
+<ol class="steps">
+<li><p><strong>Done out of love.</strong> Without love, even giving away all your goods "<span class="sq">profits me nothing</span>" (<a href="https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A3&amp;version=NKJV">1 Corinthians 13:3</a>).</p></li>
+<li><p><strong>Done without abandoning those who depend on you.</strong> Whoever does not provide for their own, especially their household, "<span class="sq">has denied the faith</span>" (<a href="https://www.biblegateway.com/passage/?search=1%20Timothy%205%3A8&amp;version=NKJV">1 Timothy 5:8</a>).</p></li>
+<li><p><strong>Done quietly, not to be seen.</strong> Charitable deeds done "<span class="sq wj">to be seen</span>" have "<span class="sq wj">no reward</span>" (<a href="https://www.biblegateway.com/passage/?search=Matthew%206%3A1&amp;version=NKJV">Matthew 6:1</a>).</p></li>
+<li><p><strong>Done freely.</strong> No one should be pressured into it. Even in the early church, Peter told Ananias that his land was his "<span class="sq">own</span>," and even after the sale the money was "<span class="sq">in your own control</span>" (<a href="https://www.biblegateway.com/passage/?search=Acts%205%3A4&amp;version=NKJV">Acts 5:4</a>).</p>
+<p>Ellen G. White describes exactly the pressure this guards against, in the scene just before the widow's two mites:</p>
+<blockquote class="egw">
+<p>…gained the confidence of pious widows, and then represented it as a duty for them to devote their property to religious purposes. Having secured control of their money, the wily schemers used it for their own benefit.</p>
+<footer><cite><a href="https://m.egwwritings.org/en/book/130.3007">DA 614.1</a> (The Desire of Ages, ch. 67, "Woes on the Pharisees")</cite></footer>
+</blockquote></li>
+</ol>
+<p>When all four hold, giving everything is not overly righteous. When one fails, the problem is that condition, not the size of the gift.</p>
+</section>
+
 <section id="egw">
 <h2>What Ellen G. White says on the issue</h2>
 <p>Ellen G. White wrote on both halves of this question, so here is what she says. I give the reference codes and links so you can check each passage in context.</p>
