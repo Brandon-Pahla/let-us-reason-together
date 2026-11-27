@@ -28,6 +28,17 @@ description: "Does Ecclesiastes 7:16 warn against giving everything to God? A st
 </blockquote>
 <p>Notice what verse 16 pairs it with: "<span class="sq">overly wise</span>." Solomon isn't talking about someone who loves God too much. He is talking about someone who thinks they have climbed above everyone else, in righteousness or in wisdom.</p>
 <p>That is self-righteousness. It is spiritual pride, the kind that stacks its own rules on top of God's and then looks down on anyone who doesn't keep them. It is rigid legalism dressed up as devotion.</p>
+<p>Not every commentator reads it exactly this way. Some see a warning against harsh, self-imposed extremes that end up hurting you:</p>
+<blockquote class="confession">
+<p>The caution is against morbid scrupulosity and over-rigorism.</p>
+<footer><cite><a href="https://biblehub.com/commentaries/ellicott/ecclesiastes/7.htm">Ellicott's Commentary for English Readers on Ecclesiastes 7:16</a> (BibleHub)</cite></footer>
+</blockquote>
+<p>Even on that reading, the problem is going beyond what God asks, not loving Him too much. Gill puts it plainly:</p>
+<blockquote class="confession">
+<p>This is not meant of true and real righteousness, even moral righteousness, a man cannot be too holy or too righteous…</p>
+<footer><cite><a href="https://biblehub.com/commentaries/gill/ecclesiastes/7.htm">Gill's Exposition of the Entire Bible on Ecclesiastes 7:16</a> (BibleHub)</cite></footer>
+</blockquote>
+<p>So if someone gives rashly, with no thought for work or family, the answer is wisdom about how to give. It is not a reason to call giving itself too much.</p>
 <p>And look at how the passage ends: "<span class="sq">he who fears God will escape them all</span>." The cure for both extremes is not less devotion. It is the fear of God.</p>
 <p>So the warning is about the heart, not the size of the gift. Nothing here says you can give too generously or love God too much.</p>
 
@@ -159,6 +170,12 @@ description: "Does Ecclesiastes 7:16 warn against giving everything to God? A st
 <p><span class="wj">And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands, for My name’s sake, shall receive a hundredfold, and inherit eternal life.</span></p>
 <footer><cite><a href="https://www.biblegateway.com/passage/?search=Matthew%2019%3A29&amp;version=NKJV">Matthew 19:29</a> (NKJV)</cite></footer>
 </blockquote>
+<p>None of this makes saving wrong. Scripture calls it wise:</p>
+<blockquote class="scripture">
+<p><em>There is</em> desirable treasure,<br>And oil in the dwelling of the wise,<br>But a foolish man squanders it.</p>
+<footer><cite><a href="https://www.biblegateway.com/passage/?search=Proverbs%2021%3A20&amp;version=NKJV">Proverbs 21:20</a> (NKJV)</cite></footer>
+</blockquote>
+<p>Saving is wise. Trusting your savings instead of God is not. And saving wisely is not the same as calling generous giving foolish.</p>
 <p>So here is the real difference. <strong>Giving away stored wealth while you keep working doesn't take away your family's security. It moves that security from a bank balance to God.</strong></p>
 </section>
 
