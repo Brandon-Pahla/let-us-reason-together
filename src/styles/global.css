@@ -196,6 +196,7 @@ img, table { max-width: 100%; }
 }
 
 .wj { color: var(--wj); }
+.accent { color: var(--egw); }
 
 @media (max-width: 600px) {
   body { font-size: 1.05rem; }
